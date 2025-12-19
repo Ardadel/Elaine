@@ -1,0 +1,10 @@
+--bare
+-I
+/home/argo/Documents/qt/Elaine/build/Desktop_Qt_6_10_1-Debug
+-I
+/home/argo/Downloads/qt/6.10.1/gcc_64/qml
+--resource
+/home/argo/Documents/qt/Elaine/build/Desktop_Qt_6_10_1-Debug/.qt/rcc/qmake_Elaine.qrc
+--resource
+/home/argo/Documents/qt/Elaine/build/Desktop_Qt_6_10_1-Debug/.qt/rcc/appElaine_raw_qml_0.qrc
+/home/argo/Documents/qt/Elaine/Main.qml

@@ -1,0 +1,14 @@
+-rootPath
+/home/argo/Documents/qt/Elaine
+-cmake-output
+-output-file
+/home/argo/Documents/qt/Elaine/build/Desktop_Qt_6_10_1-Debug/.qt/qml_imports/appElaine_build.cmake
+-importPath
+/home/argo/Documents/qt/Elaine/build/Desktop_Qt_6_10_1-Debug/Elaine
+-importPath
+/home/argo/Documents/qt/Elaine/build/Desktop_Qt_6_10_1-Debug
+-importPath
+/home/argo/Downloads/qt/6.10.1/gcc_64/qml
+-qrcFiles
+/home/argo/Documents/qt/Elaine/build/Desktop_Qt_6_10_1-Debug/.qt/rcc/qmake_Elaine.qrc
+/home/argo/Documents/qt/Elaine/build/Desktop_Qt_6_10_1-Debug/.qt/rcc/appElaine_raw_qml_0.qrc

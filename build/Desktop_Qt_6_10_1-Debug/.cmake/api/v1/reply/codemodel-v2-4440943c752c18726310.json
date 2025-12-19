@@ -1,0 +1,205 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f81206aa9b7651f1ac9f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Elaine",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-ec33f2380a13b5c07f11.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-51a9e30ec8c259e33876.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-ceafbc7f0ec1f976ad15.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-3d445d78b48170aca438.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-7b6425f6282f0c754678.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appElaine::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appElaine-Debug-47c0e486194b208c79d1.json",
+					"name" : "appElaine",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appElaine_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appElaine_autogen-Debug-a33a997d579b7536ef68.json",
+					"name" : "appElaine_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appElaine_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appElaine_autogen_timestamp_deps-Debug-d1ff1a0f00d656624542.json",
+					"name" : "appElaine_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appElaine_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appElaine_copy_qml-Debug-2fce6b7df2538d7069a5.json",
+					"name" : "appElaine_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appElaine_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appElaine_copy_res-Debug-fb94af43b2af3f8b207d.json",
+					"name" : "appElaine_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appElaine_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appElaine_qmlimportscan-Debug-d30400619f2239f97f7c.json",
+					"name" : "appElaine_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appElaine_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appElaine_qmllint-Debug-a5459f6f23402f0ed3ce.json",
+					"name" : "appElaine_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appElaine_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appElaine_qmllint_json-Debug-07e3827422818b264ebb.json",
+					"name" : "appElaine_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appElaine_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appElaine_qmllint_module-Debug-c954b34740107464bb5a.json",
+					"name" : "appElaine_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appElaine_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appElaine_qmltyperegistration-Debug-782d376afcfd2f473b2a.json",
+					"name" : "appElaine_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "generate_qmlls_build_ini_file::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-generate_qmlls_build_ini_file-Debug-aa59dc14c1159a26d816.json",
+					"name" : "generate_qmlls_build_ini_file",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appElaine_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appElaine_aotstats_target-Debug-824915ab62d650ab908a.json",
+					"name" : "module_appElaine_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/argo/Documents/qt/Elaine/build/Desktop_Qt_6_10_1-Debug",
+		"source" : "/home/argo/Documents/qt/Elaine"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

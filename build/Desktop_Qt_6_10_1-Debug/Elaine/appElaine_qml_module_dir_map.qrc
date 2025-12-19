@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/Elaine">/home/argo/Documents/qt/Elaine/build/Desktop_Qt_6_10_1-Debug/Elaine</file>
+
+  </qresource>
+</RCC>
